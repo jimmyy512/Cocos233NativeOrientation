@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.3.3",
+  "name": "CocosNativeOrientation",
+  "id": "ce6a10e2-2622-4b6e-aee8-f0a822eb4e49",
+  "isNew": false
+}
